@@ -2,27 +2,19 @@
 
 ## Live Application URL:
 
-#
-
 - Live URL for Project: https://thunderous-treacle-c9f408.netlify.app
 
 ## Author:
 
-#
-
 - [Shvet Kantibhai Anaghan](shvetanaghan28@gmail.com)
 
 ## About:
-
-#
 
 - The BidMyRide web application is a virtual automobile auction platform that gives buyers and sellers the chance to engage in online car buying and selling. Users can explore available automobiles, submit bids, and compare various cars based on their features and specs using the platform's real-time bidding process. Additionally, the platform offers a thorough transaction history so customers may follow their purchasing and selling activity.
 
 - It is not easy to get a decent price for your car, especially to avoid dealer fees and all hassle. Third-party dealers' ways to sell or buy a car are not popular these days. The idea behind the project is to create a Service that provides a virtual car auction platform that provides an opportunity for both buyers and sellers to get the best value for their money.
 
 ## List of Features:
-
-#
 
 - User profile mangement
 - Comparison between two cars
@@ -35,15 +27,11 @@
 
 ## Sources Used:
 
-#
-
 ### Video
 
 I took a video of a car from this [Link](https://www.imagin.studio/assets/lifestyle/fiat/bridge_fiat.mp4) with an impressive frontend design, which showcases its sleek and modern look. The frontend of the car is beautifully captured in the video, highlighting its elegant curves and bold design elements. And that I am shoeing in background.
 
 ## Folder Structure Used
-
-#
 
 ### React App:
 
@@ -118,8 +106,6 @@ We used an MVC architecture. Controllers, Models, and Routes are the three main 
 - [nodemon](https://www.npmjs.com/package/nodemon)
 
 ## Prerequisites:
-
-#
 
 To run this project on your machine, You need to install git first. below is the link that will guide you to install Git on your machine.
 
